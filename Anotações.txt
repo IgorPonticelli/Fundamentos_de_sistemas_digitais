@@ -1,0 +1,34 @@
+Aula 9/11
+
+Ao escrever um código em Assembly é possível saber o que o processador está fazendo. 
+Além disso, você como desenvolvedor tem acesso a recursos que não teria se estivesse 
+usando uma linguagem de programação de alto nível.
+
+
+Organização de computadores: 
+    COMO implementar o processador/computador
+
+Arquitetura de computadores: 
+    Linha de montagem
+    Descrição de termos
+    Arquiteturas diferentes
+
+Componentes computador
+    entrada, saida, memória, bloco de dados e controle
+
+Pipelining é uma técnica de implementação em que várias instruções são sobrepostas na execução 
+
+Rápido ---------- lento
+RGG, cache, RAM, disco
+Caro ------------ barato
+
+Modelo von Neumann
+    Sem Paralelismo
+    Mais simples
+    Existe apenas um barramento interno por onde circulam instruções e dados
+
+Modelo Harvard
+    Paralelismo
+    Mais complexo
+    Atual
+    Dois barramentos internos, um de instruções e um para dados
